@@ -1,24 +1,10 @@
 {
-  "development": {
-    "username": "postgres",
-    "password": "postgres",
-    "database": "database_development",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
-  },
-  "test": {
-    "username": "",
-    "password": null,
-
-    "database": "cryptocurrency_test",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
-  },
   "production": {
-    "username": "",
-    "password": null,
-    "database": "cryptocurrency_production",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "username": "ptvjwyjkjoyzol",
+    "password": "df2ad1fb844584f4503d8dd78514c0683d5400d1437e3f54731deb8a5643f956",
+    "database": "da8u6okfm9vp94",
+    "host": "ec2-107-20-188-239.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "port": "5432"
   }
 }
